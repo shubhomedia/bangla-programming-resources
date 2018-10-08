@@ -54,3 +54,5 @@
 - [স্বাগত প্রতীক](https://thehoneymad.wordpress.com/)
 - [হাসান আবদুল্লাহ](http://hellohasan.com/)
 - [হাসিন হায়দার](https://hasin.me/)
+- [দিবাকর সূত্রধর](https://with.dibakar.me/)
+- [জুনায়েদ আহমেদ](https://with.zonayed.me/bn)
